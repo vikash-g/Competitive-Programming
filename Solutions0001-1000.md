@@ -4,6 +4,8 @@
 </p>
 </br>
 
+## Index
+
 |#|Title|Solution|Time|Space|Difficulty|Tags|Note|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[Java](./Java/32%20-%20Longest%20Valid%20Parentheses.java)|_O(n)_|_O(1)_|Hard|String, DP, Stack||

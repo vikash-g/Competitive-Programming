@@ -12,6 +12,8 @@
 
 ## Solutions
 - [0001 ~ 1000](./Solutions0001-1000.md)
+- [1001 ~ 2000](./Solutions1001-2000.md)
+- [2001+](./Solutions2001+.md)
 
 </br>
 
@@ -33,6 +35,9 @@
     * [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
     * [Algorithm Visualizer](https://algorithm-visualizer.org/)
     * [VisuAlgo](https://visualgo.net/en)
+
+* Top YouTube Channels
+    * [Tushar Roy - Coding Made Simple](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
 
 * Misc
     * [Thinking Techniques](https://sites.google.com/site/mostafasibrahim/programming-competitions/thinking-techniques) as follows:
