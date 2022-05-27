@@ -1,6 +1,6 @@
 # [Leetcode](https://leetcode.com/problemset/all/)
 <p align="center">
-    <a><img src="https://img.shields.io/github/license/vikash-g/Leetcode?color=blue"></a>
+    <a href="./LICENSE.md"><img src="https://img.shields.io/github/license/vikash-g/Leetcode?color=blue"></a>
     <a><img src="https://img.shields.io/github/languages/top/vikash-g/Leetcode?color=magenta"></a>
     <a><img src="https://img.shields.io/badge/update-daily-green"></a>
     <a><img src="https://img.shields.io/badge/solutions-3%20of%202281-ff69b4"></a>
@@ -10,16 +10,44 @@
     <a><img src="https://img.shields.io/badge/Hard-2-f50057"></a>
 </p>
 
-## Index
-|#|Title|Solution|Time|Space|Difficulty|Tags|Note|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[Java](https://github.com/vikash-g/Leetcode/blob/main/Java/32%20-%20Longest%20Valid%20Parentheses.java)|O(n)|O(1)|Hard|String, DP, Stack||
-|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Java](https://github.com/vikash-g/Leetcode/blob/main/Java/300%20-%20Longest%20Increasing%20Subsequence.java)|O(nLog(n))|O(n)|Medium|Array, Binary Search, DP||
-|354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|[Java](https://github.com/vikash-g/Leetcode/blob/main/Java/354%20-%20Russian%20Doll%20Envelopes.java)|O(nLog(n))|O(n)|Hard|Array, Sorting, Binary Search, DP||
-|474|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)|[Java](https://github.com/vikash-g/Leetcode/blob/main/Java/474%20-%20Ones%20and%20Zeroes.java)|O(L * m * n)|O(m * n)|Medium|Arrays, String, DP||
-|647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Java](https://github.com/vikash-g/Leetcode/blob/main/Java/647%20-%20Palindromic%20Substrings.java)|O(n^2)|O(n^2)|Medium|String, DP||
+## Solutions
+- [0001 ~ 1000](./Solutions0001-1000.md)
 
-<br/>
-<div align="right">
-    <b><a href="#index">⬆️ Go to top</a></b>
-</div>
+</br>
+
+## Reference
+
+* Algorithms
+    * [Rosetta Code](https://rosettacode.org)
+    * [CP-Algorithms](https://cp-algorithms.com)
+    * [KACTL](https://github.com/kth-competitive-programming/kactl)
+    * [Codeforces](https://codeforces.com/)
+    * [Hackerearth](https://www.hackerearth.com/practice/)
+    * [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1), [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
+    * [Top 10 Algorithms and Data Structures for Competitive Programming](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/)
+
+* Math
+    * [Stack Exchange](https://math.stackexchange.com)
+
+* Visualization
+    * [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+    * [Algorithm Visualizer](https://algorithm-visualizer.org/)
+    * [VisuAlgo](https://visualgo.net/en)
+
+* Misc
+    * [Thinking Techniques](https://sites.google.com/site/mostafasibrahim/programming-competitions/thinking-techniques) as follows:
+
+| n | Complexity | Possible Algorithms & Techniques |
+| - | - | - |
+| 10<sup>18</sup>+ | _O(1)_ | Math |
+| 10<sup>18</sup> | _O(logn)_ | Binary & Ternary Search / Matrix Power / Cycle Tricks / Big Simulation Steps / Values Reranking / Math |
+| 10<sup>16</sup> | _O(n<sup>1/2</sup>)_ | Math |
+| 10<sup>8</sup> | _O(n)_ | Greedy / Ad-hoc / DP |
+| 4×10<sup>7</sup> | _O(nlogn)_ | Linear # Calls to Binary & Ternary Search / Pre-processing & Querying / Divide and Conquer |
+| 10<sup>4</sup> | _O(n<sup>2</sup>)_ | Ad-hoc / DP / Greedy / Divide and Conquer / Branch and Bound |
+| 500 | _O(n<sup>3</sup>)_ | Ad-hoc / DP / Greedy / Divide and Conquer / Branch and Bound  |
+| 90 | _O(n<sup>4</sup>)_ | Ad-hoc / DP / Greedy / Divide and Conquer / Branch and Bound |
+| 50 | _O(n<sup>5</sup>)_ | Branch and Bound |
+| 40 | _O(n×2<sup>n/2</sup>)_ | 	Meet in the Middle |
+| 20 | _O(n×2<sup>n</sup>)_ | Backtracking / Generating 2<sup>n</sup> Subsets / Bitmask Technique |
+| 11 | _O(n!)_ | Factorial / Permutation / Combination Algorithm |

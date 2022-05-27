@@ -2,13 +2,9 @@
  * @URL: https://leetcode.com/problems/palindromic-substrings/
  */
 
+// Time : O(n^2)
+// Space: O(n^2)
 class Solution {
-    public static void main(String[] args) {
-        Solution solution = new Solution();
-        System.out.println(solution.countSubstrings("abc"));
-        System.out.println(solution.countSubstrings("aaa"));
-    }
-
     public int countSubstrings(String s) {
         char[] str = s.toCharArray();
         int n = str.length;
