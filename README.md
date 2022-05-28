@@ -5,7 +5,7 @@
     <a><img src="https://img.shields.io/badge/update-daily-green"></a>
     <a><img src="https://img.shields.io/badge/solutions-3%20of%202281-ff69b4"></a>
     </br>
-    <a><img src="https://img.shields.io/badge/Easy-0-00a152"></a>
+    <a><img src="https://img.shields.io/badge/Easy-3-00a152"></a>
     <a><img src="https://img.shields.io/badge/Medium-3-ff9100"></a>
     <a><img src="https://img.shields.io/badge/Hard-2-f50057"></a>
 </p>

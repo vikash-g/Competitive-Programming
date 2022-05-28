@@ -1,5 +1,5 @@
 <br/>
-<p style="text-align:center;">
+<p align="center">
     <b><u>Solutions [1001 ~ 2000]</u></b>
 </p>
 </br>
