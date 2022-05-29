@@ -3,10 +3,10 @@
     <a href="./LICENSE.md"><img src="https://img.shields.io/github/license/vikash-g/Leetcode?color=blue"></a>
     <a><img src="https://img.shields.io/github/languages/top/vikash-g/Leetcode?color=magenta"></a>
     <a><img src="https://img.shields.io/badge/update-daily-green"></a>
-    <a><img src="https://img.shields.io/badge/solutions-11%20of%202286-ff69b4"></a>
+    <a><img src="https://img.shields.io/badge/solutions-13%20of%202286-ff69b4"></a>
     </br>
-    <a><img src="https://img.shields.io/badge/Easy-4-00a152"></a>
-    <a><img src="https://img.shields.io/badge/Medium-5-ff9100"></a>
+    <a><img src="https://img.shields.io/badge/Easy-5-00a152"></a>
+    <a><img src="https://img.shields.io/badge/Medium-6-ff9100"></a>
     <a><img src="https://img.shields.io/badge/Hard-2-f50057"></a>
 </p>
 
