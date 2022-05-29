@@ -1,13 +1,16 @@
 # [Leetcode](https://leetcode.com/problemset/all/)
+<div align="center">
+    <img src="https://i.imgur.com/IsS5xkZ.png" width="150" title="LeetCode" alt="LeetCode">
+</div>
 <p align="center">
     <a href="./LICENSE.md"><img src="https://img.shields.io/github/license/vikash-g/Leetcode?color=blue"></a>
     <a><img src="https://img.shields.io/github/languages/top/vikash-g/Leetcode?color=magenta"></a>
     <a><img src="https://img.shields.io/badge/update-daily-green"></a>
-    <a><img src="https://img.shields.io/badge/solutions-13%20of%202286-ff69b4"></a>
+    <a><img src="https://img.shields.io/badge/solutions-13%20of%202290-ff69b4"></a>
     </br>
-    <a><img src="https://img.shields.io/badge/Easy-5-00a152"></a>
-    <a><img src="https://img.shields.io/badge/Medium-6-ff9100"></a>
-    <a><img src="https://img.shields.io/badge/Hard-2-f50057"></a>
+    <a><img src="https://img.shields.io/badge/Easy-5/575-00a152"></a>
+    <a><img src="https://img.shields.io/badge/Medium-7/1215-f0ae4e"></a>
+    <a><img src="https://img.shields.io/badge/Hard-2/500-d95450"></a>
 </p>
 
 ## Solutions
