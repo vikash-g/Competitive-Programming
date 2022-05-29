@@ -6,7 +6,7 @@
 // Space: O(n)
 class Solution {
     public long maximumImportance(int n, int[][] roads) {
-        // Find with how many city a road is connected.
+        // Find with how many roads a city is connected.
         int[] degrees = new int[n];
         for(int[] r : roads){
             ++degrees[r[0]];
@@ -14,7 +14,7 @@ class Solution {
         }
         Arrays.sort(degrees);
 
-        // Assign importance to city based on number of raods its connected. 
+        // Assign importance to city based on number of roads its connected. 
         long res = 0;
         for (int i = 0; i < n; ++i) {
             res += (long) degrees[i] * (i + 1);
