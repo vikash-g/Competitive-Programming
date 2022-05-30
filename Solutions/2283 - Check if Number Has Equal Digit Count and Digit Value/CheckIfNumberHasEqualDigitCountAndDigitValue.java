@@ -2,9 +2,11 @@
  * @URL: https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/
  */
 
- // Time : O(n)
- // Space: O(1)
-class Solution {
+public class CheckIfNumberHasEqualDigitCountAndDigitValue {
+    /**
+     * Time : O(n)
+     * Space: O(1)
+     */
     public boolean digitCount(String num) {
         int[] count = new int[10];
         int n = num.length();

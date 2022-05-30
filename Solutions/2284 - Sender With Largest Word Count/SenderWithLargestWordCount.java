@@ -2,9 +2,11 @@
  * @URL: https://leetcode.com/problems/sender-with-largest-word-count/
  */
 
-// Time : O(n)
-// Space: O(n)
-class Solution {
+public class SenderWithLargestWordCount {
+    /**
+     * Time : O(n)
+     * Space: O(n)
+     */
     public String largestWordCount(String[] messages, String[] senders) {
         Map<String, Integer> map = new HashMap<>();
         int n = messages.length;

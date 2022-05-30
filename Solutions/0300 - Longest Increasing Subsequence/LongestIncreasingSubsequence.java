@@ -1,11 +1,12 @@
-
 /**
  * @URL: https://leetcode.com/problems/longest-increasing-subsequence/
  */
 
-// Time : O(nlog(n))
-// Space: O(n)
-class Solution {
+public class LongestIncreasingSubsequence {
+    /**
+     * Time : O(nlog(n))
+     * Space: O(n)
+     */
     public int lengthOfLIS(int[] nums) {
         int[] dp = new int[nums.length];
         int len = 0;

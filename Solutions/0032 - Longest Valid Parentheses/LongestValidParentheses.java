@@ -2,9 +2,11 @@
  * @URL: https://leetcode.com/problems/longest-valid-parentheses/
  */
 
-// Time : O(n)
-// Space: O(1)
-class Solution {
+public class LongestValidParentheses {
+    /**
+     * Time : O(n)
+     * Space: O(1)
+     */
     public int longestValidParentheses(String s) {
         int n = s.length();
         int maxLen = 0;

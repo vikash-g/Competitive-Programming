@@ -2,9 +2,11 @@
  * @URL: https://leetcode.com/problems/maximum-total-importance-of-roads/
  */
 
-// Time : O(nlog(n))
-// Space: O(n)
-class Solution {
+public class MaximumTotalImportanceOfRoads {
+    /**
+     * Time : O(nlog(n))
+     * Space: O(n)
+     */
     public long maximumImportance(int n, int[][] roads) {
         // Find with how many roads a city is connected.
         int[] degrees = new int[n];

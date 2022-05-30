@@ -2,9 +2,11 @@
  * @URL: https://leetcode.com/problems/maximum-product-of-word-lengths/
  */
 
-// Time : O(n^2)
-// Space: O(n)
-class Solution {
+public class MaximumProductOfWordLengths {
+    /**
+     * Time : O(n^2)
+     * Space: O(n)
+     */
     public int maxProduct(String[] words) {
         int n = words.length;
         int ans = 0;

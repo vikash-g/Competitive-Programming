@@ -2,9 +2,11 @@
  * @URL: https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/ 
  */
 
-// Time : O(log(n))
-// Space: O(1)
-class Solution {
+public class NumberOfStepsToReduceANumberToZero {
+    /**
+     * Time : O(log(n))
+     * Space: O(1)
+     */
     public int numberOfSteps(int num) {
         if (num == 0) {
             return 0;

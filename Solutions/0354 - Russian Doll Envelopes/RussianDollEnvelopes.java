@@ -2,9 +2,11 @@
  * @URL: https://leetcode.com/problems/russian-doll-envelopes/
  */
 
-// Time : O(nlog(n))
-// Space: O(n)
-class Solution {
+public class RussianDollEnvelopes {
+    /**
+     * Time : O(nlog(n))
+     * Space: O(n)
+     */
     public int maxEnvelopes(int[][] envelopes) {
         // Sort based on increasing width. When widths are same, sort based on decreasing height (why?).
         Arrays.sort(envelopes, (a, b) -> (a[0] == b[0]) ? (b[1] - a[1]) : (a[0] - b[0]));

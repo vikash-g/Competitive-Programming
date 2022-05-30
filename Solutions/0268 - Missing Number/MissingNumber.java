@@ -2,10 +2,17 @@
  * @URL: https://leetcode.com/problems/missing-number/
  */
 
- // Time : O(n) 
- // Space: O(1)
-class Solution1 {
+public class MissingNumber {
     public int missingNumber(int[] nums) {
+        return missingNumber1(nums);
+        // return missingNumber2(nums);
+    }
+
+    /**
+     * Time : O(n)
+     * Space: O(1)
+     */
+    public int missingNumber1(int[] nums) {
         int n = nums.length;
         int missing = 0;
         for (int i = 0; i < n; ++i) {
@@ -13,12 +20,12 @@ class Solution1 {
         }
         return missing;
     }
-}
 
- // Time : O(n) 
- // Space: O(1)
-class Solution2 {
-    public int missingNumber(int[] nums) {
+    /**
+     * Time : O(n)
+     * Space: O(1)
+     */
+    public int missingNumber2(int[] nums) {
         int missing = xorOfOneToN(nums.length);
         for (int num : nums) {
             missing ^= num;

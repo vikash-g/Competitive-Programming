@@ -2,9 +2,11 @@
  * @URL: https://leetcode.com/problems/rearrange-characters-to-make-target-string/
  */
 
- // Time : O(n), where n is s.length().
- // Space: O(1)
-class Solution {
+public class RearrangeCharactersToMakeTargetString {
+    /**
+     * Time : O(n), where n is s.length()
+     * Space: O(1)
+     */
     public int rearrangeCharacters(String s, String t) {
         int[] sCount = new int[26];
         int[] tCount = new int[26];

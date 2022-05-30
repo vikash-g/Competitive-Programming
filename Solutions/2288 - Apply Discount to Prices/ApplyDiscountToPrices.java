@@ -2,9 +2,11 @@
  * @URL: https://leetcode.com/problems/apply-discount-to-prices/
  */
 
- // Time : O(n)
- // Space: O(n)
- class Solution {
+public class ApplyDiscountToPrices {
+    /**
+     * Time : O(n)
+     * Space: O(n)
+     */
     public String discountPrices(String sentence, int discount) {
         StringBuilder sb = new StringBuilder();
         String[] words = sentence.split(" ");
