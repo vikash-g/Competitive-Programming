@@ -41,6 +41,7 @@
 
 * Top YouTube Channels
     * [Tushar Roy - Coding Made Simple](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
+    * [WilliamFiset](https://www.youtube.com/c/WilliamFiset-videos)
 
 * Misc
     * [Thinking Techniques](https://sites.google.com/site/mostafasibrahim/programming-competitions/thinking-techniques) as follows:
