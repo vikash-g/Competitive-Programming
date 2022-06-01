@@ -6,10 +6,10 @@
     <a href="./LICENSE.md"><img src="https://img.shields.io/github/license/vikash-g/Leetcode?color=blue"></a>
     <a><img src="https://img.shields.io/github/languages/top/vikash-g/Leetcode?color=magenta"></a>
     <a><img src="https://img.shields.io/badge/update-daily-green"></a>
-    <a><img src="https://img.shields.io/badge/solutions-18%20of%202290-ff69b4"></a>
+    <a><img src="https://img.shields.io/badge/solutions-22%20of%202290-ff69b4"></a>
     </br>
-    <a><img src="https://img.shields.io/badge/Easy-8/575-00a152"></a>
-    <a><img src="https://img.shields.io/badge/Medium-8/1215-f0ae4e"></a>
+    <a><img src="https://img.shields.io/badge/Easy-11/575-00a152"></a>
+    <a><img src="https://img.shields.io/badge/Medium-9/1215-f0ae4e"></a>
     <a><img src="https://img.shields.io/badge/Hard-2/500-d95450"></a>
 </p>
 
@@ -42,6 +42,8 @@
 * Top YouTube Channels
     * [Tushar Roy - Coding Made Simple](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
     * [WilliamFiset](https://www.youtube.com/c/WilliamFiset-videos)
+    * [Algorithms Live!](https://www.youtube.com/c/AlgorithmsLive)
+    * [take U forward](https://www.youtube.com/c/takeUforward)
 
 * Misc
     * [Thinking Techniques](https://sites.google.com/site/mostafasibrahim/programming-competitions/thinking-techniques) as follows:
