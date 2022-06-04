@@ -6,10 +6,10 @@
     <a href="./LICENSE.md"><img src="https://img.shields.io/github/license/vikash-g/Leetcode?color=blue"></a>
     <a><img src="https://img.shields.io/github/languages/top/vikash-g/Leetcode?color=magenta"></a>
     <a><img src="https://img.shields.io/badge/update-daily-green"></a>
-    <a><img src="https://img.shields.io/badge/solutions-25%20of%202290-ff69b4"></a>
+    <a><img src="https://img.shields.io/badge/solutions-26%20of%202290-ff69b4"></a>
     </br>
     <a><img src="https://img.shields.io/badge/Easy-12/575-00a152"></a>
-    <a><img src="https://img.shields.io/badge/Medium-11/1215-f0ae4e"></a>
+    <a><img src="https://img.shields.io/badge/Medium-12/1215-f0ae4e"></a>
     <a><img src="https://img.shields.io/badge/Hard-2/500-d95450"></a>
 </p>
 
@@ -30,6 +30,8 @@
     * [Hackerearth](https://www.hackerearth.com/practice/)
     * [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1), [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
     * [Top 10 Algorithms and Data Structures for Competitive Programming](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/)
+    * [Algorithms for Competitive Programming](https://cp-algorithms.com/)
+    * [Algorithms Weekly by Petr Mitrichev](https://petr-mitrichev.blogspot.com/)
 
 * Math
     * [Stack Exchange](https://math.stackexchange.com)
