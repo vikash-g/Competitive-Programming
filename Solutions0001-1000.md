@@ -12,6 +12,7 @@
 |0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Java](./Solutions/0009%20-%20Palindrome%20Number/PalindromeNumber.java)|Easy|Math||
 |0029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[Java](./Solutions/0029%20-%20Divide%20Two%20Integers/DivideTwoIntegers.java)|Medium|Math, Bit Manipulation||
 |0032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[Java](./Solutions/0032%20-%20Longest%20Valid%20Parentheses/LongestValidParentheses.java)|Hard|String, DP, Stack||
+|0052|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Java](./Solutions/0052%20-%20N-Queens%20II/NQueensII.java)|Hard|Backtracking||
 |0191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Java](./Solutions/0191%20-%20Number%20of%201%20Bits/NumberOf1Bits.java)|Easy|Bit Manipulation||
 |0268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Java](./Solutions/0268%20-%20Missing%20Number/MissingNumber.java)|Easy|Array, Bit Manipulation, Math, Sorting||
 |0300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Java](./Solutions/0300%20-%20Longest%20Increasing%20Subsequence/LongestIncreasingSubsequence.java)|Medium|Array, Binary Search, DP||
