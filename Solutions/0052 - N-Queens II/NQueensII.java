@@ -6,7 +6,7 @@ public class NQueensII {
     private int ans;
 
     /**
-     * Time : O(n^n)
+     * Time : O(n!)
      * Space: O(n)
      */
     public int totalNQueens(int n) {
