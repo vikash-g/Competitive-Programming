@@ -20,6 +20,9 @@
 
 </br>
 
+## Data Structures
+- [Fenwick Tree](./Data%20Structures/Trees/FenwickTree.md)
+
 ## Reference
 
 * Algorithms
