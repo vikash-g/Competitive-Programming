@@ -57,7 +57,7 @@ Let `i` be an index of BIT. Let `p` be the position of least significant non-zer
     Given a number num, it can be represented as x1y in binary representation.
     Where x is some random binary number and y is all 0's after the rightmost set bit.
     num => x1y
-    -num => 2's complement of N
+    -num => 2's complement of num
        => (x1y)' + 1
        => x'0y' + 1 => y consists of all zeroes, so y' consists of all ones.
        => x'0(0…0)' + 1

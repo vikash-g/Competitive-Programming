@@ -15,6 +15,7 @@
 |0052|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Java](./Solutions/0052%20-%20N-Queens%20II/NQueensII.java)|Hard|Backtracking||
 |0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Java](./Solutions/0088%20-%20Merge%20Sorted%20Array/MergeSortedArray.java)|Easy|Array, Two Pointers, Sorting||
 |0160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Java](./Solutions/0160%20-%20Intersection%20of%20Two%20Linked%20List/IntersectionOfTwoLinkedList.java)|Easy|Linked List, Two Pointer, HashMap||
+|0167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Java](./Solutions/0167%20-%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/TwoSumIIInputArrayIsSorted.java)|Medium|Array, Two Pointers, Binary Search||
 |0191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Java](./Solutions/0191%20-%20Number%20of%201%20Bits/NumberOf1Bits.java)|Easy|Bit Manipulation||
 |0268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Java](./Solutions/0268%20-%20Missing%20Number/MissingNumber.java)|Easy|Array, Bit Manipulation, Math, Sorting||
 |0300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Java](./Solutions/0300%20-%20Longest%20Increasing%20Subsequence/LongestIncreasingSubsequence.java)|Medium|Array, Binary Search, DP||
