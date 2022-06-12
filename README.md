@@ -6,8 +6,8 @@
 </p>
 
 ## Solutions
-[Codeforces](./CodeForces/README.md)</br>
-[LeetCode](./LeetCode/README.md)
+[Codeforces](./CodeForces/)</br>
+[LeetCode](./LeetCode/)
 
 
 </br>
