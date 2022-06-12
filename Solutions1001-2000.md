@@ -16,6 +16,7 @@
 |1461|[Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)|[Java](./Solutions/1461%20-%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K/CheckIfAStringContainsAllBinaryCodesOfSizeK.java)|Medium|String, HashMap, Rolling Hash, Bit Manipulation||
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Java](./Solutions/1480%20-%20Running%20Sum%20of%201d%20Array/RunningSumOf1dArray.java)|Easy|Array, Prefix Sum||
 |1658|[Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)|[Java](./Solutions/1658%20-%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero/MinimumOperationsToReduceXToZero.java)|Medium|Array, Prefix Sum, Hash Table, Sliding Window, Binary Search||
+|1695|[Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)|[Java](./Solutions/1695%20-%20Maximum%20Erasure%20Value/MaximumErasureValue.java)|Medium|Array, Prefix Sum, Hash Table, Sliding Window||
 |1732|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|[Java](./Solutions/1732%20-%20Find%20the%20Highest%20Altitude/FindTheHighestAltitude.java)|Easy|Array, Prefix Sum||
 
 <br/>
