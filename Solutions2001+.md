@@ -17,6 +17,7 @@
 |2300|[Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)|[Java](./Solutions/2300%20-%20Successful%20Pairs%20of%20Spells%20and%20Potions/SuccessfulPairsOfSpellsAndPotions.java)|Medium|Array, Binary Search||
 |2302|[Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/)|[Java](./Solutions/2302%20-%20Count%20Subarrays%20With%20Score%20Less%20Than%20K/CountSubarraysWithScoreLessThanK.java)|Hard|Array, Prefix Sum, Two Pointers||
 |2303|[Calculate Amount Paid in Taxes](https://leetcode.com/problems/calculate-amount-paid-in-taxes/)|[Java](./Solutions/2303%20-%20Calculate%20Amount%20Paid%20in%20Taxes/CalculateAmountPaidInTaxes.java)|Easy|Array||
+|2304|[Minimum Path Cost in a Grid](https://leetcode.com/problems/minimum-path-cost-in-a-grid/)|[Java](./Solutions/2304%20-%20Minimum%20Path%20Cost%20in%20a%20Grid/MinimumPathCostInAGrid.java)|Medium|DP||
 
 <br/>
 <div align="right">
