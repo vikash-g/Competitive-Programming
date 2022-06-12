@@ -15,6 +15,7 @@
 |2288|[Apply Discount to Prices](https://leetcode.com/problems/apply-discount-to-prices/)|[Java](./Solutions/2288%20-%20Apply%20Discount%20to%20Prices/ApplyDiscountToPrices.java)|Medium|String||
 |2299|[Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii/)|[Java](./Solutions/2299%20-%20Strong%20Password%20Checker%20II/StrongPasswordCheckerII.java)|Easy|String||
 |2300|[Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)|[Java](./Solutions/2300%20-%20Successful%20Pairs%20of%20Spells%20and%20Potions/SuccessfulPairsOfSpellsAndPotions.java)|Medium|Array, Binary Search||
+|2302|[Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/)|[Java](./Solutions/2302%20-%20Count%20Subarrays%20With%20Score%20Less%20Than%20K/CountSubarraysWithScoreLessThanK.java)|Hard|Array, Prefix Sum, Two Pointers||
 
 <br/>
 <div align="right">
