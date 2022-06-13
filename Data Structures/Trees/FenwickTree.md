@@ -47,7 +47,7 @@ Let `i` be an index of BIT. Let `p` be the position of least significant non-zer
 
 </br>
 <div align="center">
-    <img src="../assets/BIT.jpg" width="300" title="Fenwick Tree" alt="Fenwick Tree">
+    <img src="../../assets/BIT.jpg" width="300" title="Fenwick Tree" alt="Fenwick Tree">
 </div>
 
 ---
@@ -81,7 +81,7 @@ Let `i` be an index of BIT. Let `p` be the position of least significant non-zer
 </br>
 
 ## Range Query
-To get the prefix sum of `[1..i]`, simply keep adding the values at index `i` and update `i` after removing its right most set bit.
+To get the prefix sum of `[1..i]`, simply keep adding the values at index `i` and update `i` after removing its right most set bit (lsb).
 
 i.e. Start at `i` and cascade downwards until we reach 0 adding the value at each indices we encounter.
 
@@ -131,7 +131,7 @@ Time Complexity: O(log(N))
 
 ## Read The Actual Value At A Position
 
-The value at index `i` can be calculated by calling the function read twice – `f[i] = read(i) – read(i – 1)` — by taking the difference of two adjacent cumulative values. This procedure works in `2 * O(log(N))` time. There is a different approach that has lower running time complexity than invoking read twice, lower by a constant factor.
+The value at index `i` can be calculated by calling the function sum twice – `f[i] = sum(i) – sum(i – 1)` — by taking the difference of two adjacent cumulative values. This procedure works in `2 * O(log(N))` time. There is a different approach that has lower running time complexity than invoking sum twice, lower by a constant factor.
 
 The main idea behind this approach is motivated by the following observation. Assume that we want to compute the sum of values between two indices. For each of the two indices, consider the path from the index to the root. These two paths meet at some index (at latest at index 0), after which point they overlap. Then, we can calculate the sum of the values along each of those two paths until they meet and subtract those two sums. In that way we obtain the sum of the values between that two indices.
 
