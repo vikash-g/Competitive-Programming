@@ -7,10 +7,7 @@
 
 ## Solutions
 [Codeforces](./CodeForces/)</br>
-[LeetCode](./LeetCode/)
-
-
-</br>
+[LeetCode](./LeetCode/)</br>
 
 ## Data Structures
 - [Fenwick Tree](./Data%20Structures/Trees/FenwickTree.md)

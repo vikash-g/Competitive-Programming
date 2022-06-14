@@ -3,10 +3,10 @@
     <img src="https://i.imgur.com/IsS5xkZ.png" width="150" title="LeetCode" alt="LeetCode">
 </div>
 <p align="center">
-    <a><img src="https://img.shields.io/badge/solutions-39%20of%202306-ff69b4"></a>
+    <a><img src="https://img.shields.io/badge/solutions-41%20of%202306-ff69b4"></a>
     </br>
     <a><img src="https://img.shields.io/badge/Easy-17/578-00a152"></a>
-    <a><img src="https://img.shields.io/badge/Medium-19/1225-f0ae4e"></a>
+    <a><img src="https://img.shields.io/badge/Medium-20/1225-f0ae4e"></a>
     <a><img src="https://img.shields.io/badge/Hard-4/503-d95450"></a>
 </p>
 

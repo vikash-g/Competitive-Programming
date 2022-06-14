@@ -25,6 +25,7 @@
 |0318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)|[Java](./Solutions/0318%20-%20Maximum%20Product%20of%20Word%20Lengths/MaximumProductOfWordLengths.java)|Medium|Array, String, Bit Manipulation||
 |0354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|[Java](./Solutions/0354%20-%20Russian%20Doll%20Envelopes/RussianDollEnvelopes.java)|Hard|Array, Sorting, Binary Search, DP||
 |0474|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)|[Java](./Solutions/0474%20-%20Ones%20and%20Zeroes/OnesAndZeroes.java)|Medium|Arrays, String, DP||
+|0587|[Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)|[Java](./Solutions/0583%20-%20Delete%20Operation%20for%20Two%20Strings/DeleteOperationForTwoStrings.java)|Medium|String, DP||
 |0647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Java](./Solutions/0647%20-%20Palindromic%20Substrings/PalindromicSubstrings.java)|Medium|String, DP||
 |0867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Java](./Solutions/0867%20-%20Transpose%20Matrix/TransposeMatrix.java)|Easy|Array, Matrix||
 |0872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[Java](./Solutions/0872%20-%20Leaf-Similar%20Trees/LeafSimilarTrees.java)|Easy|Tree, Binary Tree, DFS||
