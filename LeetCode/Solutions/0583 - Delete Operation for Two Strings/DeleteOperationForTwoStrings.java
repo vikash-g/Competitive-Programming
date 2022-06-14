@@ -38,7 +38,7 @@ public class DeleteOperationForTwoStrings {
      * Space: O(2 * Min(m, n))
      */
     public int minDistance2(String word1, String word2) {
-        if (word1.length() > word2.length()) {
+        if (word1.length() < word2.length()) {
             return minDistance(word2, word1);
         }
 
@@ -46,18 +46,18 @@ public class DeleteOperationForTwoStrings {
         char[] t = word2.toCharArray();
         int m = s.length;
         int n = t.length;
-        int[][] dp = new int[2][m + 1];
+        int[][] dp = new int[2][n + 1];
         int k = 0;
-        for (int i = 0; i < n; ++i) {
+        for (int i = 0; i < m; ++i) {
             k = 1 - k;
-            for (int j = 0; j < m; ++j) {
-                if (s[j] == t[i]) {
+            for (int j = 0; j < n; ++j) {
+                if (s[i] == t[j]) {
                     dp[k][j + 1] = dp[1 - k][j] + 1;
                 } else {
                     dp[k][j + 1] = Math.max(dp[k][j], dp[1 - k][j + 1]);
                 }
             }
         }
-        return m + n - (dp[k][m] << 1);
+        return m + n - (dp[k][n] << 1);
     }
 }
