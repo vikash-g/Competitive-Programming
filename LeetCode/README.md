@@ -6,7 +6,7 @@
     <a><img src="https://img.shields.io/badge/solutions-41%20of%202306-ff69b4"></a>
     </br>
     <a><img src="https://img.shields.io/badge/Easy-17/578-00a152"></a>
-    <a><img src="https://img.shields.io/badge/Medium-20/1225-f0ae4e"></a>
+    <a><img src="https://img.shields.io/badge/Medium-21/1225-f0ae4e"></a>
     <a><img src="https://img.shields.io/badge/Hard-4/503-d95450"></a>
 </p>
 
