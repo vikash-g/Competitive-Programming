@@ -11,6 +11,7 @@
 
 ## Data Structures
 - [Fenwick Tree](./Data%20Structures/Trees/FenwickTree.md)
+- [Union-Find (Disjoint Set)](./DataStructures/Union-Find/)
 
 ## Reference
 
