@@ -10,6 +10,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |0001|[Two Sum](https://leetcode.com/problems/two-sum/)|[Java](./Solutions/0001%20-%20Two%20Sum/TwoSum.java)|Easy|Array, HashMap||
 |0003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Java](./Solutions/0003%20-%20Longest%20Substring%20Without%20Repeating%20Characters/LongestSubstringWithoutRepeatingCharacters.java)|Medium|String, Sliding Window, HashTable||
+|0005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/submissions/)|[Java](./Solutions/0005%20-%20Longest%20Palindromic%20Substring/LongestPalindromicSubstring.java)|Medium|String, DP||
 |0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Java](./Solutions/0009%20-%20Palindrome%20Number/PalindromeNumber.java)|Easy|Math||
 |0029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[Java](./Solutions/0029%20-%20Divide%20Two%20Integers/DivideTwoIntegers.java)|Medium|Math, Bit Manipulation||
 |0032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[Java](./Solutions/0032%20-%20Longest%20Valid%20Parentheses/LongestValidParentheses.java)|Hard|String, DP, Stack||
